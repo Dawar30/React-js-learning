@@ -1,0 +1,11 @@
+/* Project styles placeholder */
+:root {
+  --accent: #06b6d4;
+}
+
+.example-component {
+  padding: 0.5rem 1rem;
+  background: var(--accent);
+  color: white;
+  border-radius: 6px;
+}
